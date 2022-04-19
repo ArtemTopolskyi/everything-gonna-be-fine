@@ -114,3 +114,26 @@
 .button-good:hover {
   background-color: #CB997E;
 }
+
+@media (max-width: 800px) {
+  .container {
+    padding: 50px 30px;
+  }
+
+  .body {
+    padding: 15px 15px;
+    min-height: max-content;
+    flex-grow: 1;
+  }
+
+  .heading {
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+  .button {
+    padding: 12px 40px;
+    font-size: 40px;
+    font-weight: 600;
+  }
+}

@@ -14,3 +14,9 @@
 .textarea::placeholder {
   color: #6B705C;
 }
+
+@media (max-width: 800px) {
+  .textarea {
+    font-size: 40px;
+  }
+}

@@ -1,18 +1,14 @@
 import React from 'react';
 import { Container } from './Container';
-import { Mood, quotes } from './constants';
+import { Mood } from './constants';
 import './GoodMood.css';
 
-const getRandomQuote = () => {
-  const randomIndex = Math.floor(Math.random() * (quotes.length))
-  console.log(randomIndex);
-  return quotes[randomIndex];
-};
 
-export const GoodMood = ({ toggleMood }) => (
+
+export const GoodMood = ({ quote, toggleMood }) => (
   <Container mood={Mood.Good} toggleMood={toggleMood}>
     <p className='quote'>
-      {getRandomQuote()}
+      {quote}
     </p>
   </Container>
 );
