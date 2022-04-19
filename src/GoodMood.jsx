@@ -4,8 +4,8 @@ import { Mood, quotes } from './constants';
 import './GoodMood.css';
 
 const getRandomQuote = () => {
-  const randomIndex = Math.floor(Math.random() * (quotes.length + 1))
-
+  const randomIndex = Math.floor(Math.random() * (quotes.length))
+  console.log(randomIndex);
   return quotes[randomIndex];
 };
 
