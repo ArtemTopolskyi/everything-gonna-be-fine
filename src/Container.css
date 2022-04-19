@@ -117,23 +117,23 @@
 
 @media (max-width: 800px) {
   .container {
-    padding: 50px 30px;
+    padding: 30px;
   }
 
   .body {
-    padding: 15px 15px;
+    padding: 1px 1px;
     min-height: max-content;
     flex-grow: 1;
   }
 
   .heading {
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 600;
   }
 
   .button {
     padding: 12px 40px;
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 600;
   }
 }
