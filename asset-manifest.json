@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a9a708a.css",
-    "main.js": "/static/js/main.d264ace2.js",
-    "index.html": "/index.html",
-    "main.0a9a708a.css.map": "/static/css/main.0a9a708a.css.map",
-    "main.d264ace2.js.map": "/static/js/main.d264ace2.js.map"
+    "main.css": "/everything-gonna-be-fine/static/css/main.0a9a708a.css",
+    "main.js": "/everything-gonna-be-fine/static/js/main.d264ace2.js",
+    "index.html": "/everything-gonna-be-fine/index.html",
+    "main.0a9a708a.css.map": "/everything-gonna-be-fine/static/css/main.0a9a708a.css.map",
+    "main.d264ace2.js.map": "/everything-gonna-be-fine/static/js/main.d264ace2.js.map"
   },
   "entrypoints": [
     "static/css/main.0a9a708a.css",
