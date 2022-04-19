@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/everything-gonna-be-fine/static/css/main.f5186a0f.css",
+    "main.js": "/everything-gonna-be-fine/static/js/main.9ce80ae1.js",
+    "index.html": "/everything-gonna-be-fine/index.html",
+    "main.f5186a0f.css.map": "/everything-gonna-be-fine/static/css/main.f5186a0f.css.map",
+    "main.9ce80ae1.js.map": "/everything-gonna-be-fine/static/js/main.9ce80ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5186a0f.css",
+    "static/js/main.9ce80ae1.js"
+  ]
+}
